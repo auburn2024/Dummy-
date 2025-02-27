@@ -1,0 +1,25 @@
+---
+title: "Untitled"
+output:
+  md_document:
+  html_document: default
+  variant: gfm
+  pdf_document: default
+  word_document: default
+date: "2025-02-27"
+---
+
+```{r}
+library(readr)
+```
+
+
+```{r}
+TipsR <- read.csv("TipsR.csv", na.string = ",")
+View(TipsR)
+```
+
+
+
+
+
