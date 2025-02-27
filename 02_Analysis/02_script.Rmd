@@ -1,0 +1,12 @@
+---
+title: "Untitled"
+output:
+  md_document:
+    variant: gfm
+  word_document: default
+  html_document: default
+  pdf_document: default
+date: "2025-02-27"
+---
+
+## This is the example of script.2
